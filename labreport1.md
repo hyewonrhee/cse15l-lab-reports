@@ -10,6 +10,7 @@
   
   ![Image](LRstep1.jpg)
   
-  To solve a similar problem, click the settings button on the bottom-left corner and click `Check for
-  Updates`. VScode will then close to restart, and you just need to open the application again.
+  To solve a similar problem, click the settings button on the bottom-left corner and click "Check for
+  Updates". VScode will then close to restart, and you will need to open the application again.
   
+**Step 2:** Remotely Connecting
