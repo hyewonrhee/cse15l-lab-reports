@@ -5,7 +5,11 @@
 
   For this step, I already had VScode installed from a previous course. However,
   there was no option to select the default profile of `bash` or `zsh`. But with
-  support from the TAs, I was able to pinpoint the problem as the fact that my
+  support from the TAs, I was able to pinpoint the problem, which was the fact that my
   version of VScode was not up to date.
   
-
+  ![Image](LRstep1.jpg)
+  
+  To solve a similar problem, click the settings button on the bottom-left corner and click `Check for
+  Updates`. VScode will then close to restart, and you just need to open the application again.
+  
