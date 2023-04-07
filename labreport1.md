@@ -35,6 +35,10 @@
   
   ![Image](LRstep2.3.png)
   
+  In this specific instance, the password-change tool was not working for some time before I finally
+  was able to successfully login, and the output shows exactly that by saying the time and date of
+  the `Last failed login:`.
+  
 **Step 3:** Trying Some Commands
 
   Now it's time to try some commands! 
