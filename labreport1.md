@@ -35,4 +35,13 @@
   
   ![Image](LRstep2.3.png)
   
+**Step 3:** Trying Some Commands
+
+  Now it's time to try some commands! 
   
+  Using commands such as `cp`, `pwd`, `cd`, `ls`, or `mkdir`, test these out using both the remote
+  server and your own computer.
+  
+  Example tests using these commands should look something like this:
+  
+  ![Image](LRstep3.png)
