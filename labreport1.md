@@ -14,3 +14,6 @@
   Updates". VScode will then close to restart, and you will need to open the application again.
   
 **Step 2:** Remotely Connecting
+
+  To open a new terminal in VScode, at the very top click Terminal and then New Terminal.
+  ![Image](LRstep2.png)
