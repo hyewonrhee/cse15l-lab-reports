@@ -49,3 +49,7 @@
   Example tests using these commands should look something like this:
   
   ![Image](LRstep3.png)
+  
+  In this specific instance, since I was using the remote server, when I typed in the command
+  `cd /Users/`, it gave me the message that there is no such file or directory, but instead I had
+  specified a directory that is only on my own computer.
