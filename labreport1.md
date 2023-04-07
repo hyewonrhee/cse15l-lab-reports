@@ -33,4 +33,6 @@
   
   Then once it logs into the remote server, it should look something like this:
   
+  ![Image](LRstep2.3.png)
+  
   
