@@ -17,3 +17,20 @@
 
   To open a new terminal in VScode, at the very top click Terminal and then New Terminal.
   ![Image](LRstep2.png)
+  
+  Next, select the arrow pointing downwards next to the + sign, and select either `zsh` or `bash`.
+  ![Image](LRstep2.2.png)
+  
+  Now you're ready to log into your course-specific account.
+  
+  To login, type in `ssh` and then your course-specific username, ending in `@ieng6.ucsd.edu`.
+  
+  Your command should look like this:
+  
+  `$ ssh cs15lsp23ql@ieng6.ucsd.edu`
+  
+  Then it will ask you for your password, which will not appear as you type it in for security reasons.
+  
+  Then once it logs into the remote server, it should look something like this:
+  
+  
