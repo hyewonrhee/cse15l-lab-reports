@@ -50,9 +50,13 @@
   server and your own computer.
   
   (`cp` copies a file from one place to another)
+  
   (`pwd` prints the name of the current working directory)
+  
   (`cd` changes the current working directory)
+  
   (`ls` lists the files in your current directory)
+  
   (`mkdir` creates a new directory)
   
   Example tests using these commands should look something like this:
