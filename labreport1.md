@@ -66,5 +66,6 @@
   In this specific instance, since I was using the remote server, when I typed in the command
   `cd /Users/`, I was attempting to change the directory into /Users/, but it gave me the message that
   there is no such file or directory, since I had specified a directory that is only on my own computer.
+  
   As for the `ls <directory>` command, I had used the `ls` command to list out the files but did not specify
   which directory I wished the to see the files of. 
