@@ -13,6 +13,9 @@
   To solve a similar problem, click the settings button on the bottom-left corner and click "Check for
   Updates". VScode will then close to restart, and you will need to open the application again.
   
+  If you do not have VSCode applied yet, click on the link: https://code.visualstudio.com/ and follow the
+  specific directions for your type of computer (Windows, Mac, etc).
+  
 **Step 2:** Remotely Connecting
 
   To open a new terminal in VScode, at the very top click Terminal and then New Terminal.
@@ -46,10 +49,18 @@
   Using commands such as `cp`, `pwd`, `cd`, `ls`, or `mkdir`, test these out using both the remote
   server and your own computer.
   
+  (`cp` copies a file from one place to another)
+  (`pwd` prints the name of the current working directory)
+  (`cd` changes the current working directory)
+  (`ls` lists the files in your current directory)
+  (`mkdir` creates a new directory)
+  
   Example tests using these commands should look something like this:
   
   ![Image](LRstep3.png)
   
   In this specific instance, since I was using the remote server, when I typed in the command
-  `cd /Users/`, it gave me the message that there is no such file or directory, but instead I had
-  specified a directory that is only on my own computer.
+  `cd /Users/`, I was attempting to change the directory into /Users/, but it gave me the message that
+  there is no such file or directory, since I had specified a directory that is only on my own computer.
+  As for the `ls <directory>` command, I had used the `ls` command to list out the files but did not specify
+  which directory I wished the to see the files of. 
