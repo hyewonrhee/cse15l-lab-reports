@@ -48,3 +48,33 @@ class StringServer {
 ```
 
 ![Screenshot1](/cse15l-lab-reports/LR2-1.png)
+
+- Which methods in your code are called?
+
+    The method `handleRequest` is called.
+
+- What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+
+    The `handleRequest` method in the `Handler` class takes in a `URI` object, which was the URL requested. Relevant values within are `int num`, which keeps track of the number and is initially set to zero, and `String str`, which keeps track of the message the user wants to input, and is initially set as an empty String. When the path contains "/add-message", another relevant field is the `String[]` called `parameters`, which splits the query of the URL to access the appropriate part/message.
+
+- How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+
+  Since "/add-message" was used in this request, and the first of the `parameters` array was equal to "s", the `num` value was incremented by 1, and the `str` value was concatenated with a String version of `num` and the requested message "Hello", as well as a new line, through the split query by `.getQuery().split("=")`.
+
+![Screenshot2](/cse15l-lab-reports/LR2-2.png)
+
+- Which methods in your code are called?
+
+    The method `handleRequest` is called.
+
+- What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+
+    The `handleRequest` method in the `Handler` class takes in a `URI` object again, which was the (updated) URL that was requested. Relevant values are `int num`, which now has a value of 1 after the first request, and `String str`, which now has a value containing the previous message (numbered) and a new line.
+  
+- How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+
+    Since "/add-message" was used in this request as well, the `num` value was incremented to 2, and the `str` value was concatenated with the newly updated value of `num` and the requested message "How are you", as well as another new line, created a two-item numbered list of the previous request, as well as the new message.
+
+## Part 2
+
+
