@@ -77,4 +77,5 @@ class StringServer {
 
 ## Part 2
 
-
+![Screenshot3](/cse15l-lab-reports/LR2-4.png)
+![Screenshot4](/cse15l-lab-reports/LR2-3.png)
