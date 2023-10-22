@@ -78,4 +78,14 @@ class StringServer {
 ## Part 2
 
 ![Screenshot3](/cse15l-lab-reports/LR2-4.png)
+Path to private and public key for my SSH key for logging into `ieng6`.
+
+
 ![Screenshot4](/cse15l-lab-reports/LR2-3.png)
+Terminal interaction logging into `ieng6` without being asked for a password.
+
+## Part 3
+
+**In a couple sentences, describe something you learned from lab in week 2 or week 3 that you didn't know before.**
+
+I didn't know that you could copy files and/or directories between two systems, specifically the local system on my laptop and the remote system on the lab computers. Using the `scp` command during our most recent lab, it made sense to be able to have both our private and public keys available on both our VSCode and our remote accounts. I can see how this command can come to be very useful in settings outside of this course, in terms of being able to share code, either across systems or with other programmers. 
