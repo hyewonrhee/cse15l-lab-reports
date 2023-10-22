@@ -47,3 +47,4 @@ class StringServer {
 }
 ```
 
+![Screenshot1](/cse15l-lab-reports/LR2-1.png)
