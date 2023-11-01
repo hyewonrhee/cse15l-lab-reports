@@ -81,10 +81,14 @@ class StringServer {
 
 Path to public key for my SSH key (within account on ieng6)
 
+(`~/.ssh/authorized_keys`)
+
 
 ![Screenshot3](/cse15l-lab-reports/LR2-6.png)
 
 Path to private key for my SSH key (on personal computer)
+
+The file that is the private key is `~/.ssh/id_rsa`.
 
 
 ![Screenshot4](/cse15l-lab-reports/LR2-3.png)
