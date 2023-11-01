@@ -78,8 +78,12 @@ class StringServer {
 ## Part 2
 
 ![Screenshot3](/cse15l-lab-reports/LR2-5.png)
+
 Path to public key for my SSH key (on personal computer)
+
+
 ![Screenshot3](/cse15l-lab-reports/LR2-6.png)
+
 Path to private key for my SSH key (within account on ieng6)
 
 
